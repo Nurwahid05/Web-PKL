@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIPKL Disarpus Pematang Siantar",
+  "description": "Sistem Informasi Pengajuan dan Pelayanan Surat Izin PKL Dinas Kearsipan dan Perpustakaan Kota Pematang Siantar",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
